@@ -1,4 +1,4 @@
-# Internet Banking Management System - Java Web Apllication -JSP_SERVELET_JDBC
+# Internet Banking Management System - Java Web Application -JSP_SERVELET_JDBC
 This is a fully working JAVA WEB APPLICATION for INTERNET BANKING MANAGEMENT using JSP-SERVELET-JDBC.  
 JAVA IDE USED :- ECLIPSE
 Database used :- mysql
